@@ -15,7 +15,7 @@ Each button is mappable to a keystroke or combination of keystrokes. by Default,
 - 3D Printed case
 - 8x 6mm*3mm magnets
 - 4 30mm Arcade style push buttons
-- 2 Large washers (optional)
+- 2 Large 1/2in washers (optional)
 
 ---
 
