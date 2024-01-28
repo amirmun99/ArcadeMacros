@@ -1,5 +1,6 @@
 # ArcadeMacros
 A simple 4 button macro keypad utilizing arcade style pushbuttons.
+![IMG_3910-2](https://github.com/potatoworld/ArcadeMacros/assets/37276609/b9dd44df-40e4-4200-94f2-20c6da19f9d4)
 
 ## What is this?
 
@@ -30,6 +31,7 @@ The magnets can be superglued into their holes, be careful to not reverse the po
 The Pro micro can be hot glued or 3M Taped onto the platform and aligned with the cutout for the USB Port.
 
 ---
+![IMG_3908](https://github.com/potatoworld/ArcadeMacros/assets/37276609/fea93631-041d-4204-a7bd-30dac002a8c5)
 
 # Wiring
 
