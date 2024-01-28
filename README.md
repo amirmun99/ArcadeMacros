@@ -21,7 +21,7 @@ Each button is mappable to a keystroke or combination of keystrokes. by Default,
 
 # Printing/Case assembly
 
-The case is avaible in this repo and also on this printables page:
+The case is avaible in this repo and also on this printables page: https://www.printables.com/model/742282-arcade-button-macro-pad
 
 The case prints in 2 parts, the base has cutouts for both the pro micro as well as 2 washers for weight. The washers arent needed, but might be helpful if your pushbuttons are stiff and require more force to push on. 
 
